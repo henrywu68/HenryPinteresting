@@ -2,4 +2,6 @@
 This is the pinteresting sample application for 
 [*One Month Rails*](http://onemonthrails.com)
 
+Nice to meet you!
+
 by [Chia-Hung Henry Wu](http://www.drhenrywu.com)
