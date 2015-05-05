@@ -2,4 +2,4 @@
 This is the pinteresting sample application for 
 [*One Month Rails*](http://onemonthrails.com)
 
-by [Chia-Hung Henry Wu](www.drhenrywu.com)
+by [Chia-Hung Henry Wu](http://www.drhenrywu.com)
